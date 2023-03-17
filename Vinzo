@@ -47,8 +47,8 @@ print(bired+"""
              """)
  
 while True:
-     UserN="Vincenzo"
-     PassW="OMG"
+     usern="Vincenzo"
+     passw="OMG"
      inpuser=str(input(bipurple+"\n[>] Enter Username: "))
      inppass=str(input(bipurple+"\n[>] Enter Password: "))
      if usern==inpuser and passw==inppass:
