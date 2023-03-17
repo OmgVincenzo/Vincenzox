@@ -74,19 +74,19 @@ os.system('clear')
 print(bigreen+"""\t
 
             
-███████████████████████████
-███████████████████████████
-███████████████████████████
-███████VINCENZO█████████████
-███████████████████████████
-███████████████████████████""")
+█░█░█░█░█░█░█░█░█░█░█
+░█░█░█░Vincemzo░█░█░█
+█░█░█░█░█░█░█░█░█░█░█
+░██░█░█░█░█░█░█░█░█░█
+█░█░█░█░█░█░█░█░█░█░█
+░█░█░█░█░█░█░█░█░█░█░""")
 
 
 print ("""
    ╔═════════════════════════════════╗
-   ║ AuTHor   : Vincenzo ツ              ║
-   ║ FaCeBooK : omgVincenzo              ║
-   ║ GitHuB   : omgVincenzo              ║
+   ║ AuTHor   : Vincenzo ツ          ║
+   ║ FaCeBooK : omgVincenzo          ║
+   ║ GitHuB   : omgVincenzo          ║
    ╚═════════════════════════════════╝
 
 
@@ -169,7 +169,7 @@ for i in range(amount):
 		resp17 = requests.post(url17, headers=headers17, data=data17)
 		resp40 = requests.get(url40)
 		resp31 = requests.post(url31, headers=headers31, data=data31)
-		print(bipurple+str (i+1)+" Sms	 " +biblue+"Sent	"+bicyan+ "Succesfull ☑")
+		print(bipurple+str (i+1)+" Sms	 " +biblue+"Sent	"+bicyan+ "Succesfull ✓")
 	except:
 		print (bigreen+"No Internet"+biblue+"No Internet "+bicyan+" No Intarnet"+bipurple+"No Intarnet")
 		
