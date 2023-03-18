@@ -10,9 +10,9 @@ bipurple="\033[1;95m"     # Purple
 bicyan="\033[1;96m"       # Cyan
 biehite="\033[1;97m"      # White
 import os
-print('RGB','red, green, blue'
+print (bired+"""
 
-                [VINCENZO]
+                 VINCENZO
               
 
  """)
