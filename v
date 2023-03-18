@@ -58,7 +58,8 @@ print ("""
    ╔═════════════════════════════════╗
    ║ AuTHor   : Vincenzo ツ          ║
    ║ FaCeBooK : omgVincenzo          ║
-   ║ GitHuB   : omgVincenzo          ║          
+   ║ GitHuB   : omgVincenzo          ║   
+   ║ Credit   : Rishad               ║
    ╚═════════════════════════════════╝
 
 
