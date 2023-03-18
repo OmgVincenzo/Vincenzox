@@ -13,7 +13,7 @@ import os
 print('RGB','red, green, blue'
 
                 [VINCENZO]
-               🔥SUPERMEN🔥
+              
 
  """)
  
