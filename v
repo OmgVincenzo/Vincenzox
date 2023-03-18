@@ -13,6 +13,7 @@ import os
 print (bired+"""
 
                  VINCENZO
+                
               
 
  """)
@@ -57,8 +58,7 @@ print ("""
    ╔═════════════════════════════════╗
    ║ AuTHor   : Vincenzo ツ          ║
    ║ FaCeBooK : omgVincenzo          ║
-   ║ GitHuB   : omgVincenzo          ║
-   ║ Credit   : Rishad               ║
+   ║ GitHuB   : omgVincenzo          ║          
    ╚═════════════════════════════════╝
 
 
